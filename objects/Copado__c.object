@@ -193,7 +193,7 @@
         <type>Currency</type>
     </fields>
     <fields>
-        <fullName>Name__c</fullName>
+        <fullName>Name_Field__c</fullName>
         <externalId>false</externalId>
         <label>Name Field</label>
         <precision>18</precision>
