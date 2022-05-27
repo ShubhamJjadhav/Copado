@@ -192,15 +192,5 @@
         <trackTrending>false</trackTrending>
         <type>Currency</type>
     </fields>
-     <fields>
-        <fullName>Phone_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Phone Field</label>
-        <precision>9</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Number</type>
-    </fields>
+   
 </CustomObject>
