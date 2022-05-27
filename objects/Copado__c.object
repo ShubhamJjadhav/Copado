@@ -164,6 +164,16 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+        <fullName>Email__c</fullName>
+        <externalId>false</externalId>
+        <label>Email</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Time_Field__c</fullName>
         <externalId>false</externalId>
         <label>Time Field</label>
@@ -182,6 +192,14 @@
         <type>Phone</type>
     </fields>
     <fields>
+        <fullName>Serial_Number__c</fullName>
+        <externalId>false</externalId>
+        <label>Serial Number</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>Currency_Field__c</fullName>
         <externalId>false</externalId>
         <label>Currency Field</label>
@@ -192,19 +210,4 @@
         <trackTrending>false</trackTrending>
         <type>Currency</type>
     </fields>
-    <fields>
-        <fullName>Name_Field__c</fullName>
-        <externalId>false</externalId>
-        <label>Name Field</label>
-        <precision>18</precision>
-        <required>false</required>
-        <scale>0</scale>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        
-    </fields>
-
-
-   
 </CustomObject>
